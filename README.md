@@ -1,4 +1,4 @@
-# Roby on Rails Tutorial
+# Ruby on Rails Tutorial
 
 ## "Aloha World!"
 
